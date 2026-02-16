@@ -4,4 +4,4 @@ My first git lab file
 Zeal sport
 1. cricket
 
-Added line from feature-1 branch
+Added line from master branch
